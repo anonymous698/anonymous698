@@ -40,7 +40,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/anonymous698/anonymous698/output/snake.svg" alt="Snake animation" />
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/anonymous698/anonymous698/blob/output/snake.svg)
+
 
 ###
