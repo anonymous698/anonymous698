@@ -46,7 +46,7 @@
 
 <br clear="both">
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/snake.svg)
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/anonymous698/blob/output/snake.svg)
 
 
 ###
